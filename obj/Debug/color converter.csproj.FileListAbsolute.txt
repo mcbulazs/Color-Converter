@@ -1,0 +1,15 @@
+D:\Házi\color converter\bin\Debug\color converter.exe.config
+D:\Házi\color converter\bin\Debug\color converter.exe
+D:\Házi\color converter\bin\Debug\color converter.pdb
+D:\Házi\color converter\obj\Debug\color converter.csprojAssemblyReference.cache
+D:\Házi\color converter\obj\Debug\MainWindow.g.cs
+D:\Házi\color converter\obj\Debug\App.g.cs
+D:\Házi\color converter\obj\Debug\color converter_MarkupCompile.cache
+D:\Házi\color converter\obj\Debug\color converter_MarkupCompile.lref
+D:\Házi\color converter\obj\Debug\MainWindow.baml
+D:\Házi\color converter\obj\Debug\color converter.g.resources
+D:\Házi\color converter\obj\Debug\color_converter.Properties.Resources.resources
+D:\Házi\color converter\obj\Debug\color converter.csproj.GenerateResource.cache
+D:\Házi\color converter\obj\Debug\color converter.csproj.CoreCompileInputs.cache
+D:\Házi\color converter\obj\Debug\color converter.exe
+D:\Házi\color converter\obj\Debug\color converter.pdb
